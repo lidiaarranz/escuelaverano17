@@ -1039,12 +1039,11 @@ div.modal-body h4{
 	.navoffset { padding-top:60px; }
 	.contact-info { padding-bottom:2px; }
 	.boton-contenedor-formulario {
-    margin: auto;
-    width: 100%;
-    margin-top: 40px;
-    margin-bottom: 40px;
-}
-	
+	    margin: auto;
+	    width: 100%;
+	    margin-top: 40px;
+	    margin-bottom: 40px;
+	}
 }
 /* Portrait tablets and medium desktops */
 @media (min-width: 992px) {
