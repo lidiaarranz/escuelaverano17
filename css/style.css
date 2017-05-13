@@ -538,6 +538,34 @@ a.boton-solido:hover{
 	margin: 40px 0px;
 }
 
+.boton-contenedor-formulario {
+    margin: auto;
+    width: 35%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+a.boton-solido-formulario:link, a.boton-solido-formulario:visited, a.boton-solido-formulario:focus{
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+    letter-spacing: 0.02em;
+	border: solid 2px #fa5847;
+	color: #fa5847;
+	background-color: transparent;
+    padding: 20px 25%;
+    text-align: center;
+    -webkit-transition: color 0.5s ease;
+    -moz-transition: color 0.5s ease;
+    -o-transition: color 0.5s ease;
+    transition: color 0.5s ease;
+}
+
+
+a.boton-solido-formulario:hover{
+	color: #fff;
+	background-color: #fa5847;
+}
 
 
 /* =Contacto
@@ -783,7 +811,7 @@ div.modal-body h4{
 	color: #1b2335;
 	background-color: #fff;
 	text-align: center;
-	padding: 30px 0px;
+	padding: 30px 10px;
 }
 
 /* =Media Queries
@@ -1010,6 +1038,12 @@ div.modal-body h4{
 	.mt30-sm { margin-top:30px; }
 	.navoffset { padding-top:60px; }
 	.contact-info { padding-bottom:2px; }
+	.boton-contenedor-formulario {
+    margin: auto;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
 	
 }
 /* Portrait tablets and medium desktops */
