@@ -538,6 +538,10 @@ a.boton-solido:hover{
 	margin: 40px 0px;
 }
 
+.boton-contenedor-juguetes {
+	margin: 40px 10px 40px 0px;
+}
+
 .boton-contenedor-formulario {
     margin: auto;
     width: 35%;
@@ -801,6 +805,22 @@ div.modal-body h4{
     letter-spacing: 0;
     font-weight: 600;
     font-size: 1.2em;
+}
+
+.color-05 {
+	background-color: #ff7e27;
+}
+.color-02 {
+	background-color: #cf4dff;
+}
+.color-03 {
+	background-color: #00a053;
+}
+.color-01 {
+	background-color: #3ee9af;
+}
+.color-04 {
+	background-color: #f9e23a;
 }
 
 .modal-body {
