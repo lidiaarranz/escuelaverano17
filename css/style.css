@@ -1021,6 +1021,9 @@ div.modal-body h4{
 	}
     .about { padding:60px 0 60px 0 !important; }
     .page-title-2 { padding-bottom: 0; }
+    .modal-dialog-horarios {
+    width: 600px;
+    margin: 0px auto;
 }
 /* Landscape phones and portrait tablets and down*/
 @media (max-width: 767px) {
