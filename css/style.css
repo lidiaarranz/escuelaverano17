@@ -1030,6 +1030,9 @@ div.modal-body h4{
 	.modal-body-horarios h2 {
 		text-align: center;
 	}
+	.bolton-solido-formulario {
+		padding: 20px 15%;
+	}
 /* Landscape phones and portrait tablets and down*/
 @media (max-width: 767px) {
 	body { font-size:16px; line-height:27px; }
