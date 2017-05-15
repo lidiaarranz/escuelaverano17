@@ -1035,6 +1035,10 @@ div.modal-body h4{
 	.bolton-solido-formulario {
 		padding: 20px 15%;
 	}
+	.modal-body {
+		padding: 0px;
+	}
+}
 /* Landscape phones and portrait tablets and down*/
 @media (max-width: 767px) {
 	body { font-size:16px; line-height:27px; }
